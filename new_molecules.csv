@@ -1,0 +1,62 @@
+index,molecula,Smiles,7P2G,label
+0,EGCG,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,-5.6,0
+1,caffeic acid,C1=CC(=C(C=C1/C=C/C(=O)O)O)O ,-5.7,0
+2,reveratrol,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O ,-6.6,2
+3,astragalus polysaccharide ,O=[N+]([O-])C1=CC=C(C2=CSC(CCl)=N2)C=C1,-5.8,2
+4,baicalin,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,-3.3,0
+5,kaempferol,OC(C=C1)=CC=C1C2=C(O)C(C3=C(O)C=C(O)C=C3O2)=O,-6.6,2
+6,quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,-6.9,2
+7,Β-sitosterol ,CC(C)C(CC)CCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC21,-4.2,0
+8,beberine,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC ,-6.9,2
+9,Betulinic acid ,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)C(=O)O,-1.6,0
+10,indirubin,C1=CC=C2C(=C1)C(=C(N2)O)C3=NC4=CC=CC=C4C3=O,-7.0,2
+11,Cordycepin , C1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N)CO,-6.2,2
+12,curcumin,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,-4.7,0
+13,myricetin,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O ,-6.3,2
+14,nicotinamide,C1=CC(=CN=C1)C(=O)N ,-4.4,0
+15,CHLOROGENIC ACID,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,-6.2,2
+16,honokiol,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,-5.8,2
+17,parthenolide ,C/C/1=C\CC[C@@]2([C@H](O2)[C@@H]3[C@@H](CC1)C(=C)C(=O)O3)C,-6.4,2
+18,ferruginol,CC(C)C1=C(C=C2C(=C1)CC[C@@H]3[C@@]2(CCCC3(C)C)C)O,-5.9,2
+19,7b- hydroxydeoxycryptojaponol ,CC(C)C1=C(C(=C2C(=C1)[C@H](C[C@@H]3[C@@]2(CCCC3(C)C)C)O)O)OC,-5.3,0
+20,betulonic acid ,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CCC(=O)C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)C)C(=O)O,-2.7,0
+21,savinin,C1[C@@H](/C(=C\C2=CC3=C(C=C2)OCO3)/C(=O)O1)CC4=CC5=C(C=C4)OCO5,-6.4,2
+22,xanthoangelol ,CC(=CCC/C(=C/CC1=C(C=CC(=C1O)C(=O)/C=C/C2=CC=C(C=C2)O)O)/C)C,-5.3,0
+23,bavachinin ,CC(=CCC1=CC2=C(C=C1OC)O[C@@H](CC2=O)C3=CC=C(C=C3)O)C,-4.3,0
+24,neobavaisoflavone ,CC(=CCC1=C(C=CC(=C1)C2=COC3=C(C2=O)C=CC(=C3)O)O)C,-7.1,2
+25,isobavachalcone ,CC(=CCC1=C(C=CC(=C1O)C(=O)/C=C/C2=CC=C(C=C2)O)O)C,-5.3,0
+26,4’-O-methylbavachalcone ,CC(=CCC1=CC(=C(C=C1OC)O)C(=O)/C=C/C2=CC=C(C=C2)O)C,-6.2,2
+27,psoralidin ,CC(=CCC1=CC2=C(C=C1O)OC(=O)C3=C2OC4=C3C=CC(=C4)O)C ,-6.1,2
+28,corylifol ,CC(=CCC/C(=C/CC1=C(C=CC(=C1)C2=COC3=C(C2=O)C=CC(=C3)O)O)/C)C ,-6.6,2
+29,herbacetin,C1=CC(=CC=C1C2=C(C(=O)C3=C(O2)C(=C(C=C3O)O)O)O)O,-6.8,2
+30,quercetin-3-b-D-glucoside ,O=c1c(O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,-6.2,2
+31,helichrysetin ,COC1=CC(=CC(=C1C(=O)/C=C/C2=CC=C(C=C2)O)O)O,-6.3,2
+32,luteolin,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,-7.0,2
+33,epigallocatechin gallate , C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O ,-4.7,0
+34,gallocatechin gallate ,C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O,-4.7,0
+35,indigo,C1=CC=C2C(=C1)C(=C(N2)C3=NC4=CC=CC=C4C3=O)O,-7.3,2
+36,indican,C1=CC=C2C(=C1)C(=CN2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,-6.6,2
+37,sinigrin ,C=CC/C(=N\OS(=O)(=O)[O-])/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O.[K+] ,0.0,0
+38,b-sitosterol , CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,-3.8,0
+39,aloeemodin ,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)CO,-6.3,2
+40,hesperetin,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,-6.8,2
+41,daidzen,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O ,-7.1,2
+42,scutellarein,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,-7.3,2
+43,lycorine,C1CN2CC3=CC4=C(C=C3[C@H]5[C@H]2C1=C[C@@H]([C@H]5O)O)OCO4,-7.1,2
+44,tylophorine,COC1=C(C=C2C(=C1)C3=C(CN4CCC[C@H]4C3)C5=CC(=C(C=C52)OC)OC)OC,6.7,0
+45,methoxycryptopleurine,COC1=C(C=C2C(=C1)C3=C(CN4CCCCC4C3)C5=CC(=C(C=C52)OC)OC)OC ,7.3,0
+46,Citriquinochroman ,C[C@H]1CC2=C(C(=CC(=C2[C@H](O1)C3=CC=C4N3C(=O)C5=C4NC6=CC=CC=C6C5=O)OC)O)C,-0.7,0
+47,Holyrine ,C[C@H]1[C@@H]([C@@H](C[C@@H](O1)N2C3=CC=CC=C3C4=C5C(=C6C7=CC=CC=C7NC6=C42)CNC5=O)N)O,11.4,0
+48,Pityriacitrin ,C1=CC=C2C(=C1)C3=C(N2)C(=NC=C3)C(=O)C4=CNC5=CC=CC=C54,-7.3,2
+49,Anthrabenzoxocinone ,CC1=CC(=CC2=C1C3C4=C(C5=C(C=C4CC(O3)(O2)C)C(C6=C(C5=O)C(=CC(=C6)O)O)(C)C)O)O,-0.6,0
+50,Apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,-6.9,2
+51,Coriandrin,CC1=CC2=CC3=C(C=CO3)C(=C2C(=O)O1)OC,-6.0,2
+52,Glabridin,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C ,-5.2,0
+53,hederagin,C[C@]12CC[C@@H]([C@@]([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)CO)O,-1.3,0
+54,liquitigenin,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,-6.7,2
+55,Oleanolic acid,C[C@]12CC[C@@H](C([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)C)O,-2.0,0
+56,Rosmarinic acid,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,-6.2,2
+57,Safficinolide,CC(C)C1=C(C2=C(C(=C1)C=O)C3(CCCC(C3C(=O)O2)(C)C)C=O)O,-5.6,0
+58,Sageone, CC(C)C1=C(C(=C2C(=C1)CCC3=C2C(=O)CCC3(C)C)O)O,-6.1,2
+59,Ursolic acid,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O,-1.6,0
+60,Glucobrassicin,C1=CC=C2C(=C1)C(=CN2)C/C(=N/OS(=O)(=O)O)/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,-5.8,2
